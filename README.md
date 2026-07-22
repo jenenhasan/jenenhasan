@@ -7,7 +7,7 @@
 
 ---
 
-Recent Software Engineering graduate with production-grade experience in Python backend systems, AI integration, and financial data pipelines.
+Software Engineer with production-grade experience in Python backend systems, AI integration, and financial data pipelines.
 
 **🎯 Seeking:** Junior Backend Engineer (Remote/Hybrid/On-site)
 
