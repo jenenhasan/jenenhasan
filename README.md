@@ -37,7 +37,7 @@ Software Engineer with production-grade experience in Python backend systems, AI
 - 20% simulated portfolio growth (5-month backtest)
 - Real-time risk management with dynamic position sizing
 
-### [AI Developer Assistant](https://github.com/jenenhasan/dev-assistant)
+### [AI Developer Assistant](https://github.com/jenenhasan/Diva_assistant)
 *Gemini API | Qiskit | Speech Recognition*
 
 - 30% reduction in repetitive developer tasks
